@@ -1,0 +1,25 @@
+.recipe {
+    background-color: lightblue;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.img {
+    width: 60%;
+    height: auto;
+    position: fixed;
+    right: 8px;
+}
+
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: aquamarine;
+    color:
+}
+
+#home {
+    color: red;
+    font-size: 22px;
+}
